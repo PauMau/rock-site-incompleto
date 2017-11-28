@@ -65,3 +65,15 @@ p{    /* PARRAFOS JUNTO A LAS IMAGENES */
 	padding-top:30px;
 	font-size: 20px;
 }
+
+
+/* esto es lo que debe llevar el texto sobre la imagen de la portada */
+
+#texto{
+    background-size: cover;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 70px;
+    margin-top: -500px;
+    margin-bottom: 300px;
+    text-align: center;
+}
